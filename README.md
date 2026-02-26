@@ -157,13 +157,13 @@ Background animations are rendered using **AGSL shaders** loaded from `res/raw/`
 ## 📦 Screenshot
 
 <p align="center">
-  <img src="images/img1.png" width="30%" />
+  <img src="images/img1.png" width="25%" />
   &nbsp;
-  <img src="images/img2.png" width="30%" />
+  <img src="images/img2.png" width="25%" />
   &nbsp;
-  <img src="images/img3.png" width="30%" />
+  <img src="images/img3.png" width="25%" />
    &nbsp;
-  <img src="images/img4.png" width="30%" />
+  <img src="images/img4.png" width="25%" />
 </p>
 ---
 
