@@ -38,7 +38,7 @@ com.aps.geetai/
 │   └── ChatScreen.kt           # Composables — pure UI, zero logic
 ├── MainActivity.kt             # Thin entry point, wires VM → UI
 ├── BackgroundMode.kt           # Shader background enum
-└── SmartMediaAIApplication.kt  # Hilt + Firebase initialisation
+└── GeetaAIApplication.kt  # Hilt + Firebase initialisation
 ```
 
 ### Layer responsibilities
